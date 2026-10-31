@@ -1,3 +1,7 @@
+Project Demo Video
+https://drive.google.com/file/d/1WHeEQiBU9Y9EUHzp74tnlZKa-U8Z7cbY/view?usp=drivesdk
+
+
 # Personal Finance Advisor Bot
 
 AI-powered personal financial planning assistant built for the SkillWallet project workflow.
